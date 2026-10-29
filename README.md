@@ -1,1 +1,2 @@
 Built to overwhelm most targets with CVE's using two heavily modified ESP32 from different generations with very different capabilities. 
+Chaining together features present in early variations of the device that are actually easier to get then utilizing new generation S3 device as the main brains and access to the newer ble hardware. Very specfic setup and not recommended for anyone that doesnt have extensive hardware knowledge not user friendly and certainly not for the faint of heart. 
